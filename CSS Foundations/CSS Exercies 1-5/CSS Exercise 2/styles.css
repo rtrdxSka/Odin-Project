@@ -1,0 +1,18 @@
+.odd{
+    background: rgb(237, 105, 78);
+    font-size: 30px;
+}
+
+#idfour{
+font-weight: bold;
+    background: rgb(25, 230, 49);
+}
+
+#idtwo{
+color: rgb(4, 76, 191);
+    font-size: 60px;
+    font-weight: bold;
+}
+.odd.odd-big-font{
+    font-size: 50px;
+}
